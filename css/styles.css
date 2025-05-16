@@ -68,7 +68,9 @@ a {
     letter-spacing: 0.04em;
     color: #fff;
     background-color: #4d5ae5;
+    cursor: pointer;
 }
+
 .features {}
 
 .features-list {}
@@ -110,7 +112,9 @@ a {
 
 .taste-list {}
 
-.taste-item {}
+.taste-item {
+    background-color: #fff;
+}
 
 .taste-image {}
 
